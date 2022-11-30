@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.kh.variable.A_Variable"/>
+<fullyQualifiedTypeName name="com.kh.variable.D_PrintMethod"/>
+<fullyQualifiedTypeName name="com.kh.variable.E_KayboardInput"/>
+<fullyQualifiedTypeName name="com.kh.example.chap02.loop.A_For"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.kh.example.chap02_class_publicClass.controller.PublicClassTest"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.awt.print.Book"/>
+<fullyQualifiedTypeName name="com.kh.example.practice4.model.vo.Book"/>
+<fullyQualifiedTypeName name="com.kh.example.chap06_method.controller.MethodController"/>
+<fullyQualifiedTypeName name="com.kh.example.chap01_poly.test.model.vo.Child1"/>
+<fullyQualifiedTypeName name="com.kh.example.chap02_abstract.family.model.vo.Family"/>
+<fullyQualifiedTypeName name="com.kh.example.chap02_abstract.family.model.vo.Mother"/>
+<fullyQualifiedTypeName name="com.kh.example.chap02_abstract.family.model.vo.Baby"/>
+<fullyQualifiedTypeName name="com.kh.practice.chap01_poly.model.vo.Member"/>
+<fullyQualifiedTypeName name="com.kh.practice.point.model.vo.Point"/>
+<fullyQualifiedTypeName name="com.kh.homework.person.model.vo.Student"/>
+<fullyQualifiedTypeName name="com.kh.practice.student.model.vo.Student"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.kh.example.list.model.vo.Student"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.kh.practice.list.library.model.vo.Book"/>
+<fullyQualifiedTypeName name="java.util.TreeSet"/>
+<fullyQualifiedTypeName name="com.kh.example.set.model.vo.Dog"/>
+<fullyQualifiedTypeName name="com.kh.example.set.model.compare.DogComparator"/>
+<fullyQualifiedTypeName name="java.util.ListIterator"/>
+<fullyQualifiedTypeName name="com.kh.example.map.model.vo.Snack"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="com.kh.example.map.model.compare.SnackComparator"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+<fullyQualifiedTypeName name="com.kh.practice.set.model.vo.Lottery"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="com.kh.practice.set.model.compare.SortedLottery"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+</qualifiedTypeNameHistroy>

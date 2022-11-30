@@ -1,0 +1,16 @@
+package com.kh.example.chap02.run;
+
+import com.kh.example.chap02.loop.A_For;
+
+public class Run {
+	public static void main(String[] args) {
+		A_For af = new A_For();
+//		af.method1();
+//		af.method1_1();
+//		af.method2();
+//		af.method2_2();
+//		af.method3();
+		af.method5();
+	}
+
+}
